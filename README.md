@@ -10,3 +10,4 @@ ASP.NET MVC kullanarak DBFirst yöntemi ile geliştirdiğimiz bir protfolyo proj
 - MSSQL
 - LINQ
 - JS
+![image](https://github.com/aliotman/Github2/blob/master/Github2/Images/github.jpg)
